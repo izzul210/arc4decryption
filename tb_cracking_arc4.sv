@@ -1,6 +1,6 @@
 `timescale 1ps / 1ps
 
-module tb_task4();
+module tb_cracking_arc4();
 
 // Your testbench goes here.
 
@@ -35,4 +35,4 @@ module tb_task4();
   $stop;
    
   end
-endmodule: tb_task4
+endmodule: tb_cracking_arc4
